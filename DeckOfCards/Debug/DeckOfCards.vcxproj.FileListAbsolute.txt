@@ -1,0 +1,2 @@
+C:\Users\kevin\source\repos\DeckOfCards\Debug\DeckOfCards.exe
+C:\Users\kevin\source\repos\DeckOfCards\Debug\DeckOfCards.pdb
